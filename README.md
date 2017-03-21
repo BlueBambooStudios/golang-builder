@@ -1,5 +1,5 @@
 # golang-builder
-[![](https://badge.imagelayers.io/bluebamboostudios/golang-builder.svg)](https://imagelayers.io/?images=bluebamboostudios/golang-builder:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/version/bluebamboostudios/golang-builder.svg)](https://microbadger.com/images/bluebamboostudios/golang-builder "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/bluebamboostudios/golang-builder.svg)](https://microbadger.com/images/bluebamboostudios/golang-builder "Get your own image badge on microbadger.com")
 
 Containerized build environment for compiling an executable Golang package.
 
