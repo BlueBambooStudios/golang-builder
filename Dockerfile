@@ -12,6 +12,6 @@ WORKDIR /src
 COPY build_environment.sh /
 COPY build.sh /
 
-RUN chmod +x build_environment.sh build.sh
+RUN chmod +x /build_environment.sh /build.sh
 
 ENTRYPOINT ["/build.sh"]
